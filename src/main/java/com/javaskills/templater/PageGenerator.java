@@ -1,4 +1,4 @@
-package com.javaskills.templeter;
+package com.javaskills.templater;
 
 
 import freemarker.template.Configuration;
